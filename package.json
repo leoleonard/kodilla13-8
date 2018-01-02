@@ -14,5 +14,14 @@
     "stream": "0.0.2",
     "writable": "^0.1.0",
     "writable-file-stream": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoleonard/kodilla13-8.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leoleonard/kodilla13-8/issues"
+  },
+  "homepage": "https://github.com/leoleonard/kodilla13-8#readme"
 }
